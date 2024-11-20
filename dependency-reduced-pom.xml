@@ -53,6 +53,6 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>5.9.2</junit.version>
-    <jdk.version>1.7</jdk.version>
+    <jdk.version>1.8</jdk.version>
   </properties>
 </project>

@@ -1,0 +1,10 @@
+2024-11-20 11:55:57 [main] INFO : 这是信息日志
+2024-11-20 11:55:57 [main] WARN : 这是警告日志
+2024-11-20 11:55:57 [main] ERROR: 这是错误日志
+java.lang.Exception: 测试异常
+	at config.Console.main(Console.java:34)
+2024-11-20 13:00:13 [main] INFO : 这是信息日志
+2024-11-20 13:00:13 [main] WARN : 这是警告日志
+2024-11-20 13:00:13 [main] ERROR: 这是错误日志
+java.lang.Exception: jrasp WAF
+	at config.Console.main(Console.java:34)

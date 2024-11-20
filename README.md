@@ -10,5 +10,5 @@ mvn package
 ```
 + 指定需要防护程序的JVM参数
 ```shell
--javaagent:/path/to/javaopenrasp.jar
+-javaagent:/path/to/JRASP.jar
 ```
